@@ -17,3 +17,7 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 def main():
     print("and i'm python code!")
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
