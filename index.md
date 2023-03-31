@@ -10,3 +10,5 @@ And this is some text.
 def main():
     print("and i'm python code!")
 ```
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
